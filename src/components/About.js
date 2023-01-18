@@ -12,3 +12,5 @@ const About = ({ image, about }) => {
         </aside>
     </div>;
 };
+
+export default About;

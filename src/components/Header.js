@@ -7,3 +7,5 @@ const Header = ({ name }) => {
         </header>
     )
 }
+
+export default Header
